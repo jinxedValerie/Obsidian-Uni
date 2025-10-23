@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5640a23954917564",
+        "id": "557654139d7df262",
         "type": "tabs",
         "children": [
           {
-            "id": "64a02d8bf5e3adad",
+            "id": "e9f32677dc489ccd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1.3 Beweisprinzipien.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1.3 Beweisprinzipien"
             }
           }
         ]
@@ -200,12 +205,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64a02d8bf5e3adad",
+  "active": "e9f32677dc489ccd",
   "lastOpenFiles": [
+    "1.6 Relationen.md",
     "1.2 Quantoren.md",
     "1.4 Mengen.md",
     "1.7 Abbildungen und Funktionen.md",
-    "1.6 Relationen.md",
     "Untitled.md",
     "Untitled.base",
     "Untitled 1.canvas",
