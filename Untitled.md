@@ -1,2 +1,5 @@
 mathematisch: Erweiterung des Zahlenbereiches um Gleichungen zu lösen
-praktisch: ET3 Wechselstromrechnung z.B. Parallelschaltungen von Widerständen und Spulen oder Kondensatoren
+praktisch:
+- ET3 Wechselstromrechnung z.B. Parallelschaltungen von Widerständen und Spulen oder Kondensatoren
+- Ma3 Funktionentheorie -> Signalverarbeitung 
+- Rechnen mit Winkelfunktionen vereinfachen 
