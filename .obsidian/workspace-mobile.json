@@ -11,10 +11,15 @@
             "id": "4bf2bbec7426af17",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -166,6 +171,8 @@
   },
   "active": "4bf2bbec7426af17",
   "lastOpenFiles": [
+    "Untitled.md",
+    "2. Komplexe Zahlen",
     "1.6 Relationen.md",
     "1.7 Abbildungen und Funktionen.md"
   ]
