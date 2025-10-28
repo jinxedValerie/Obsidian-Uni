@@ -1,6 +1,14 @@
 {
   "switcher:open": [],
-  "command-palette:open": [],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
   "editor:toggle-bold": [
     {
       "modifiers": [

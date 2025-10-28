@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,7 +205,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3db9c3f6c5dd815c",
+  "active": "b741bbf1a4e18bb0",
   "lastOpenFiles": [
     "2. Komplexe Zahlen/2.2 Grundlagen der komplexen Zahlen.md",
     "2. Komplexe Zahlen/2.3 Darstellung komplexer Zahlen.md",
