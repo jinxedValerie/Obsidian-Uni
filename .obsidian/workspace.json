@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Logik und Mengenlehre/1.3 Beweisprinzipien.md",
+                "file": "2. Komplexe Zahlen/2.2 Grundlagen der komplexen Zahlen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1.3 Beweisprinzipien"
+              "title": "2.2 Grundlagen der komplexen Zahlen"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "12e25b1ad16e872b",
@@ -208,6 +209,7 @@
   },
   "active": "b741bbf1a4e18bb0",
   "lastOpenFiles": [
+    "1. Logik und Mengenlehre/1.3 Beweisprinzipien.md",
     "2. Komplexe Zahlen/2.2 Grundlagen der komplexen Zahlen.md",
     "asd.md",
     "desktop.ini",
@@ -219,7 +221,6 @@
     "1. Logik und Mengenlehre/1.6 Relationen.md",
     "1. Logik und Mengenlehre/1.5 Operationen mit Mengen.md",
     "1. Logik und Mengenlehre/1.4 Mengen.md",
-    "1. Logik und Mengenlehre/1.3 Beweisprinzipien.md",
     "2. Komplexe Zahlen",
     "1. Logik und Mengenlehre/1.7 Abbildungen und Funktionen.md",
     "1. Logik und Mengenlehre",
