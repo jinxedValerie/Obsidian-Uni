@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.4 Potenzieren und Radizieren.md",
+                "file": "2.5 Exkurs Äquivalente Umformungen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2.4 Potenzieren und Radizieren"
+              "title": "2.5 Exkurs Äquivalente Umformungen"
             }
           }
         ]
@@ -210,6 +210,7 @@
   "active": "cb90fcc1939e5df0",
   "lastOpenFiles": [
     "2.4 Potenzieren und Radizieren.md",
+    "2.5 Exkurs Äquivalente Umformungen.md",
     "2. Komplexe Zahlen/2.3 Darstellung komplexer Zahlen.md",
     "1. Logik und Mengenlehre/1.4 Mengen.md",
     "desktop.ini",
