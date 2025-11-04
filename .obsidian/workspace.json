@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.6 Mengen in der komplexen Ebene.md",
+                "file": "2.7 Polynomen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2.6 Mengen in der komplexen Ebene"
+              "title": "2.7 Polynomen"
             }
           }
         ]
@@ -210,11 +210,12 @@
   },
   "active": "cb90fcc1939e5df0",
   "lastOpenFiles": [
-    "Mathe/2. Komplexe Zahlen/2.3 Darstellung komplexer Zahlen.md",
+    "Mathe/1. Logik und Mengenlehre/1.7 Abbildungen und Funktionen.md",
+    "2.7 Polynomen.md",
     "2.6 Mengen in der komplexen Ebene.md",
+    "Mathe/2. Komplexe Zahlen/2.3 Darstellung komplexer Zahlen.md",
     "Mathe/2. Komplexe Zahlen/2.4 Potenzieren und Radizieren.md",
     "Mathe/2. Komplexe Zahlen/2.5 Exkurs Äquivalente Umformungen.md",
-    "Mathe/1. Logik und Mengenlehre/1.7 Abbildungen und Funktionen.md",
     "Mathe/1. Logik und Mengenlehre/1.3 Beweisprinzipien.md",
     "Mathe",
     "Mathe/1. Logik und Mengenlehre/1.4 Mengen.md",
