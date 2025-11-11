@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Def/2/22",
+                "query": "^",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
