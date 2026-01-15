@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.3 Elementare Funktionen, die rationalen Funktionen.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "3.3 Elementare Funktionen, die rationalen Funktionen"
+              "title": "Untitled"
             }
           }
         ]
@@ -75,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,8 +208,9 @@
   },
   "active": "c10cc1b2d7297c99",
   "lastOpenFiles": [
-    "3.2 Elementare Funktionen, die Polynome.md",
     "3.3 Elementare Funktionen, die rationalen Funktionen.md",
+    "Untitled.md",
+    "3.2 Elementare Funktionen, die Polynome.md",
     "desktop.ini",
     "Ink/Writing/2025.11.10 - 15.49pm.writing",
     "Ink/Writing",
@@ -245,7 +245,6 @@
     "Untitled.base",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Untitled 2.md",
-    "Untitled 1.md"
+    "Untitled 2.md"
   ]
 }
