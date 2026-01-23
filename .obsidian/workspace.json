@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selbst erstellte Aufgaben.md",
+                "file": "Mathe/6. Vektorräume und Analytische Geometrie/6.2 Skalarprodukt und Anwendung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Selbst erstellte Aufgaben"
+              "title": "6.2 Skalarprodukt und Anwendung"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "12e25b1ad16e872b",
@@ -208,9 +209,11 @@
   },
   "active": "c10cc1b2d7297c99",
   "lastOpenFiles": [
+    "Mathe/6. Vektorräume und Analytische Geometrie/6.2 Skalarprodukt und Anwendung.md",
+    "Selbst erstellte Aufgaben.md",
+    "Mathe/6. Vektorräume und Analytische Geometrie",
     "Pasted image 20260116204129.png",
     "Pasted image 20260116204104.png",
-    "Selbst erstellte Aufgaben.md",
     "3.3 Elementare Funktionen, die rationalen Funktionen.md",
     "3.2 Elementare Funktionen, die Polynome.md",
     "desktop.ini",
@@ -244,7 +247,6 @@
     "1. Logik und Mengenlehre/3. Beweisprinzipien.md",
     "1. Logik und Mengenlehre/0. Logik und Mengenlehre.md",
     "Mathe/1. Logik und Mengenlehre",
-    "Untitled.base",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
