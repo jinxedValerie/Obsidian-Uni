@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "6.2 Skalarprodukt und Anwendung"
             }
+          },
+          {
+            "id": "9b18c9ffb858b161",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,7 +220,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c10cc1b2d7297c99",
+  "active": "9b18c9ffb858b161",
   "lastOpenFiles": [
     "Mathe/6. Vektorräume und Analytische Geometrie/6.2 Skalarprodukt und Anwendung.md",
     "Selbst erstellte Aufgaben.md",
