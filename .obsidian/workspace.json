@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#differenzierbar",
+                "query": "tag:#globale-Extremum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,8 +208,10 @@
   },
   "active": "c10cc1b2d7297c99",
   "lastOpenFiles": [
-    "Mathe/4. Differentialrechnung für Funktionen einer Veränderlichen/4. Differentialrechnung für Funktionen einer Veränderlichen.md",
+    "Mathe/4. Differentialrechnung für Funktionen einer Veränderlichen/4.2 Sätze über differenzierbare Funktionen.md",
+    "Mathe/4. Differentialrechnung für Funktionen einer Veränderlichen/4.3 Anwendung der Differentialrechnung.md",
     "Mathe/4. Differentialrechnung für Funktionen einer Veränderlichen/4.1 Grundlagen.md",
+    "Mathe/4. Differentialrechnung für Funktionen einer Veränderlichen/4. Differentialrechnung für Funktionen einer Veränderlichen.md",
     "Mathe/3. Funktionen einer reellen Veränderlichen/3. Funktionen einer reellen Veränderlichen.md",
     "Mathe/3. Funktionen einer reellen Veränderlichen/3.1 Eigenschaften.md",
     "Mathe/3. Funktionen einer reellen Veränderlichen/3.2 Elementare Funktionen, die Polynome.md",
@@ -243,10 +244,8 @@
     "Mathe/1. Logik und Mengenlehre/1. Logik und Mengenlehre.md",
     "Mathe/1. Logik und Mengenlehre/1.1 Grundlagen der Logik.md",
     "Mathe/1. Logik und Mengenlehre/1.6 Relationen.md",
-    "Mathe/1. Logik und Mengenlehre/1.5 Operationen mit Mengen.md",
     "Mathe/2. Komplexe Zahlen",
     "Mathe/1. Logik und Mengenlehre",
-    "1. Logik und Mengenlehre/2. Quantoren.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
