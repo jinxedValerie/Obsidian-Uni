@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "ET Videos 1. Semester"
             }
+          },
+          {
+            "id": "ebc9fb5cf2635de7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +219,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c10cc1b2d7297c99",
+  "active": "ebc9fb5cf2635de7",
   "lastOpenFiles": [
     "Mathe/4. Differentialrechnung für Funktionen einer Veränderlichen/4.1 Grundlagen.md",
     "ET/ET Videos 1. Semester.md",

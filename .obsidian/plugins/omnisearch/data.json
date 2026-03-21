@@ -30,7 +30,7 @@
   "weightH1": 6,
   "weightH2": 5,
   "weightH3": 4,
-  "weightUnmarkedTags": 9,
+  "weightUnmarkedTags": 2,
   "weightCustomProperties": [],
   "httpApiEnabled": false,
   "httpApiPort": "51361",
